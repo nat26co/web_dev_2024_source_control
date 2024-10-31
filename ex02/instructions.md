@@ -4,11 +4,11 @@ Git allows for collaborative work on code. You are able to share repositories wi
 
 ## Terminology
 
-**Clone** - A copy of the repo that is downloaded to your computer. This is a way to copy files without emailing `.zip` files between editors.
-**Branch** - A version of your work that is separate from any other branch. Branches are  generally used to build new features, fix bugs, or to refactor old code.
-**Commit** - saving a snapshot of your work. The commit message describes the changes that were made.
-**Push** - publish your changes back to your repository.
-**Pull Request** - Send a request to the owner of the main repository to include your code in the project. This opens a discussion thread which can be used to accept your incoming changes, request fixes to changes you're suggesting, or to discuss your ideas.
+- **Clone** - A copy of the repo that is downloaded to your computer. This is a way to copy files without emailing `.zip` files between editors.
+- **Branch** - A version of your work that is separate from any other branch. Branches are  generally used to build new features, fix bugs, or to refactor old code.
+- **Commit** - saving a snapshot of your work. The commit message describes the changes that were made.
+- **Push** - publish your changes back to your repository.
+- **Pull Request** - Send a request to the owner of the main repository to include your code in the project. This opens a discussion thread which can be used to accept your incoming changes, request fixes to changes you're suggesting, or to discuss your ideas.
 
 ## Task
 
